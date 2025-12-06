@@ -1,0 +1,5 @@
+{
+  "name": "Creative Studio AI",
+  "description": "تطبيق لتوليد الصور، تثبيت الشخصيات (Seed)، وتحريك الصور (Video) مع توليد المؤثرات الصوتية.",
+  "requestFramePermissions": []
+}
